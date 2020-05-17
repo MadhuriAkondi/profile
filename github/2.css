@@ -1,0 +1,38 @@
+i{
+color: #696969;
+}
+
+img{
+border-radius: 30%;
+width: 25%;
+height : 20%;
+padding: 2%;
+display: inline-block;
+margin-left:30%;
+margin-right:30%;
+z-index: 1000;
+}
+
+h1{
+color: #000000 ;
+opacity:0.8;
+}
+
+p{
+text-align: center-left;
+font-size: 2em;
+float: right;
+display:inline-block;
+
+}
+
+body{
+margin-top:20%;
+margin-left: 10%;
+margin-bottom: 20%;
+}
+
+#details{
+    display: block;
+	float:left;
+}
