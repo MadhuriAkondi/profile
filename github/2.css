@@ -34,5 +34,6 @@ margin-bottom: 20%;
 
 #details{
     display: block;
-	float:left;
+    float:left;
+    margin-bottom: 10%;
 }
